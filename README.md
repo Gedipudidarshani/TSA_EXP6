@@ -108,14 +108,9 @@ ax.set_title('Prediction')
 ```
 ### OUTPUT:
 
-
-TEST_PREDICTION
 <img width="764" height="651" alt="image" src="https://github.com/user-attachments/assets/dbaf8934-c6bf-4898-aa76-55cc8626b2b3" />
 <img width="733" height="502" alt="image" src="https://github.com/user-attachments/assets/257aef62-f2d1-4ca2-8340-aa1734ccda55" />
 
-
-
-FINAL_PREDICTION
 <img width="800" height="573" alt="image" src="https://github.com/user-attachments/assets/607165c4-c4ce-4ed6-a01b-ffd01656d119" />
 <img width="748" height="549" alt="image" src="https://github.com/user-attachments/assets/fe2cf928-8a80-4c8f-af47-f414151f2a2a" />
 
